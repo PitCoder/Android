@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Saludo</string>
+    <string name="saludar_button_label">Presione aquí </string>
+    <string name="text_saludar">Hola Usuario!!!</string>
+</resources>
